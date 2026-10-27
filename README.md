@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Karejji
+# Hi there 👋, I'm Courage Dei
 
 ### Data Engineer | Building Reliable Data Systems ⚙️
 
